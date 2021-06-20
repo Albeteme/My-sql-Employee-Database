@@ -1,6 +1,8 @@
 # sql-challenge
 # Data Modeling
 Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
+![image](https://user-images.githubusercontent.com/75787486/122659902-65c31180-d14a-11eb-975c-79809ee4c793.png)
+
 
 # Data Engineering
 Create a table schema for each of the six CSV files by specifying data types, primary keys, foreign keys, and other constraints.
